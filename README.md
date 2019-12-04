@@ -1,1 +1,1 @@
-# CMPE 256 Project
+# CMPE 256 Project: Human Activity Recognition
